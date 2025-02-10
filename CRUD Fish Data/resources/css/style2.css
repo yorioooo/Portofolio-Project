@@ -1,0 +1,6 @@
+/* Set padding dan text-align untuk tag h1 */
+
+h1 {
+    padding: 10px;
+    text-align: center;
+}
